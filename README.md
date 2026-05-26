@@ -6,7 +6,7 @@ A simple material simulation inspired by the [Noita](https://noitagame.com) game
 This a type of cellular automaton simulation, designed to simulate sand (for now!) in a 2D grid.
 Each grid cell represents a small sand particle, that is updating every amount of time using simple rules based on realworld behavior.
 
-[preview](assets/img/preview.gif)
+![preview](assets/img/preview.gif)
 
 ---
 
